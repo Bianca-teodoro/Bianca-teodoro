@@ -18,7 +18,7 @@ Sou formada em tradução, mas decidi fazer uma transição de carreiras para a 
 
 ### Contatos
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](www.linkedin.com/in/bianca-teodoro-analista-dados)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bianca-teodoro-analista-dados)
 <!--
 **Bianca-teodoro/Bianca-teodoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
