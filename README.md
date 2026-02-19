@@ -2,7 +2,7 @@
 
 
 ###### Sobre mim:
-Sou formada em tradução, mas decidi fazer uma transição de carreiras para a área de dados para continuar trabalhando com histórias, mas usando dados em vez de palavras! 
+Sou formada em tradução, mas decidi fazer uma transição de carreiras para a área de dados para continuar trabalhando com histórias, usando dados em vez de palavras! 
 
 ### Detalhes
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bianca-teodoro&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
