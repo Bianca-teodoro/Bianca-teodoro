@@ -2,23 +2,7 @@
 
 
 ###### Sobre mim:
-Sou formada em tradução, mas decidi fazer uma transição de carreiras para a área de dados para continuar trabalhando com histórias, usando dados em vez de palavras! 
-
-### Detalhes
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bianca-teodoro&show_icons=true&theme=dark)
-
-### Projetos
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bianca-teodoro&repo=Entrega-Semantix&theme=dark)
-
-
-### Linguagens utilizadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bianca-teodoro&layout=compact)
-
-### Contatos
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bianca-teodoro-analista-dados)
+Sou formada em tradução, mas decidi fazer uma transição de carreiras para a área de dados para continuar trabalhando com histórias, usando dados em vez de palavras.
 <!--
 **Bianca-teodoro/Bianca-teodoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
